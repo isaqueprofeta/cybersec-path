@@ -156,7 +156,6 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] CISA VLP - 210W-10 Mapping IT Defense-In-Depth Security Solutions to ICS - Part I: https://ics-training.inl.gov/learn/course/internal/view/elearning/51/210w-10-mapping-it-defense-in-depth-security-solutions-to-ics-part-i
     - [ ] CISA VLP - 210W-11 Mapping IT Defense-In_Depth Security Solutions to ICS - Part II: https://ics-training.inl.gov/learn/course/internal/view/elearning/52/210w-11-mapping-it-defense-indepth-security-solutions-to-ics-part-ii
     - [ ] CISA VLP - 210W-09 Attack Methodologies in IT & ICS: https://ics-training.inl.gov/learn/course/internal/view/elearning/58/210w-09-attack-methodologies-in-it-ics
-    - [ ] 
   - Tecnologias de plataforma alta (Mainframe)
     - [ ] z/OS Introduction: https://www.ibm.com/academic/topic/ibm-z
     - [ ] Introduction to the Cobol Language: https://www.ibm.com/academic/topic/ibm-z
