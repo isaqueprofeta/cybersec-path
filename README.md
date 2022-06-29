@@ -18,6 +18,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Netacad - Get Connected: https://www.netacad.com/courses/os-it/get-connected
     - [ ] FIAP - Gestão de Infraestrutura de TI: https://on.fiap.com.br/local/movimentobrasildigital/
   - Segurança da informação geral
+    - [ ] FGV Nic.Br - Segurança Digital: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/seguranca-digital
+    - [ ] FGV Nic.Br - Termos de Uso e Políticas de Privacidade: https://educacao-executiva.fgv.br/cursos/online/curta-media-duracao-online/termos-de-uso-e-politicas-de-privacidade
     - [ ] Netacad - Introduction to Cybersecurity: https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity
   - Sistemas Operacionais Windows
     - [ ] MSLearn - Path Microsoft 365 (9 Módulos): https://docs.microsoft.com/en-us/learn/paths/m365-getmodern/
@@ -110,6 +112,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Hack The Box: https://www.hackthebox.eu
   - Analise de vulnerabilidades
     - [ ] Tenable - Introduction to Tenable.sc: https://university.tenable.com/pubaccess/learn/course/internal/view/elearning/333/introduction-to-tenablesc
+  - Ferramentas para Segurança Ofensiva
+    - [ ] Offensive Security - Metasploit Unleashed: https://www.offensive-security.com/metasploit-unleashed/
   - Sistemas de SIEM
     - [ ] Elastic - SIEM Fundamentals: https://www.elastic.co/training/elastic-security-fundamentals-siem
   - Base de Containers
@@ -133,11 +137,29 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - TBD (To be defined)
 
 # Avançado
-  - TBD (To be defined)
+  - Tecnologias de rede
+    - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
+    - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
 
 # Mestre
-  - TBD (To be defined)
+  - Tecnologias de plataforma industrial
+    - [ ] CISA VLP - 210W-03 Common ICS Components: https://ics-training.inl.gov/learn/course/internal/view/elearning/60/210w-03-common-ics-components
+    - [ ] CISA VLP - 210W-02 Influence of IT Components on Industrial Control Systems: https://ics-training.inl.gov/learn/course/internal/view/elearning/47/210w-02-influence-of-it-components-on-industrial-control-systems
+    - [ ] CISA VLP - 100W Cybersecurity Practices for Industrial Control Systems: https://ics-training.inl.gov/learn/course/internal/view/elearning/45/100w-cybersecurity-practices-for-industrial-control-systems
+  - Tecnologias de plataforma alta (Mainframe)
+    - [ ] IBM Z Enterprise Computing Kickstart: https://www.ibm.com/academic/topic/ibm-z
+    - [ ] Introduction to the Mainframe: https://www.ibm.com/academic/topic/ibm-z
 
 # "Hero"
-  - TBD (To be defined)
+  - Tecnologias de plataforma industrial
+    - [ ] CISA VLP - 210W-04 Cybersecurity Within IT and ICS Domains (FY21): https://ics-training.inl.gov/learn/course/internal/view/elearning/162/210w-04-cybersecurity-within-it-and-ics-domains-fy21
+    - [ ] CISA VLP - 210W-10 Mapping IT Defense-In-Depth Security Solutions to ICS - Part I: https://ics-training.inl.gov/learn/course/internal/view/elearning/51/210w-10-mapping-it-defense-in-depth-security-solutions-to-ics-part-i
+    - [ ] CISA VLP - 210W-11 Mapping IT Defense-In_Depth Security Solutions to ICS - Part II: https://ics-training.inl.gov/learn/course/internal/view/elearning/52/210w-11-mapping-it-defense-indepth-security-solutions-to-ics-part-ii
+    - [ ] CISA VLP - 210W-09 Attack Methodologies in IT & ICS: https://ics-training.inl.gov/learn/course/internal/view/elearning/58/210w-09-attack-methodologies-in-it-ics
+    - [ ] 
+  - Tecnologias de plataforma alta (Mainframe)
+    - [ ] z/OS Introduction: https://www.ibm.com/academic/topic/ibm-z
+    - [ ] Introduction to the Cobol Language: https://www.ibm.com/academic/topic/ibm-z
+    - [ ] Linux on IBM Z: https://www.ibm.com/academic/topic/ibm-z
+
 
