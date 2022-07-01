@@ -41,11 +41,14 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Netacad - CCNAv7 Introdução às Redes (pelo Nic.Br):  https://cursoseventos.nic.br/curso/curso-ccna-intro-cisco-nicbr/
   - Segurança da informação geral
     - [ ] Netacad - Cybersecurity Essentials: https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials
+    - [ ] SANS - CyberAces: https://www.sans.org/cyberaces/
   - Sistemas Operacionais Windows
     - [ ] MSLearn - Windows Deployment (5 Módulos): https://docs.microsoft.com/en-us/learn/paths/plan-your-windows-10-deployment-strategy/
     - [ ] MSLearn - Windows Server (5 M): https://docs.microsoft.com/en-us/learn/paths/windows-server-deployment-configuration-administration/
   - Sistemas Operacionais Linux
     - [ ] Linux Foundation - Introduction to Linux: https://training.linuxfoundation.org/training/introduction-to-linux/
+  - Sistemas de Firewall:
+    - [ ] Jose Bravo - PFSense (43 Vídeos): https://www.youtube.com/watch?v=aRVJmlqXAdQ&list=PLHh9jhztlMypPs0EIcpHE5R-5sc27r4Bc
   - Desenvolvimento de software
     - [ ] Netacad - Python: https://www.netacad.com/courses/programming/pcap-programming-essentials-python
   - Bancos de dados
@@ -63,6 +66,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Segurança da informação geral
     - [ ] FIAP - Cybersecurity: https://on.fiap.com.br/local/movimentobrasildigital/
     - [ ] AacadiTI - Network Defense Essentials: https://acaditi.com.br/essentials-series/#nde
+    - [ ] Coursera - New York University: https://www.coursera.org/specializations/intro-cyber-security
   - Pentest
     - [ ] DESEC - Introducao Pentest: https://desecsecurity.com/curso/introducao-pentest
   - Segurança Ofensiva
@@ -90,18 +94,24 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Segurança Ofensiva
     - [ ] GoHacking - EHC2: https://www.youtube.com/watch?v=bUqu8fh7xUg
     - [ ] Beco do Exploit - Hacking Dojo: https://becodoexploit.com/HackingDojo/
+  - Sistemas de SIEM
+    - [ ] Jose Bravo - What is a SIEM? (5 Vídeos): https://www.youtube.com/watch?v=MtqFMe4zSpQ&list=PLHh9jhztlMyp8lyKXt9orVM57ygW_ihPS
+    - [ ] Cybrary - AlienVault OSSIM: https://www.cybrary.it/course/alienvault-ossim/
+    - [ ] Elastic - SIEM Fundamentals: https://www.elastic.co/training/elastic-security-fundamentals-siem
   - Exercícios de "Capture the Flag":
     - [ ] Over the Wire - Wargames: https://overthewire.org/wargames/
   - Desenvolvimento de Software
     - [ ] Hackaflag Papo Binário - Programação moderna em C: https://hackaflag.com.br/academy.html
   - Base de engenharia reversa
     - [ ] Hackaflag Papo Binário - Curso de Engenharia Reversa Online: https://hackaflag.com.br/academy.html
+  - Sistemas Operacionais Windows
+    - [ ] Jose Bravo - Sysmon (36 Vídeos): https://www.youtube.com/watch?v=Xl31zNp4YUY&list=PLHh9jhztlMyrlWsozcrUEOvByfLJvRBDy
   - Organização pessoal e postura
     - [ ] EV - Comunicacao Empresarial: https://www.ev.org.br/cursos/comunicacao-empresarial
   - Legislação
     - [ ] ENAP SERPRO - Lei Brasileira de Proteção de Dados Pessoais: https://www.escolavirtual.gov.br/curso/603
   - Caixa de Ferramentas
-    - [ ] Linux Foundation - Linux Tools: https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/
+    - [ ] Linux Foundation - Linux Tools: https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/    
   - Soft Skills
     - [ ] ENAP - Habilidades de Resolução de Problemas: https://www.escolavirtual.gov.br/curso/600
     - [ ] Prime Cursos - Noções basicas de PNL: https://www.primecursos.com.br/nocoes-basicas-de-pnl/
@@ -111,11 +121,12 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Try Hack Me: https://tryhackme.com
     - [ ] Hack The Box: https://www.hackthebox.eu
   - Analise de vulnerabilidades
+    - [ ] Rapid7 - Fundamentals Vulnerability Risk Management: https://www.rapid7.com/fundamentals/vulnerabilities-exploits-threats/
     - [ ] Tenable - Introduction to Tenable.sc: https://university.tenable.com/pubaccess/learn/course/internal/view/elearning/333/introduction-to-tenablesc
   - Ferramentas para Segurança Ofensiva
     - [ ] Offensive Security - Metasploit Unleashed: https://www.offensive-security.com/metasploit-unleashed/
   - Sistemas de SIEM
-    - [ ] Elastic - SIEM Fundamentals: https://www.elastic.co/training/elastic-security-fundamentals-siem
+    - [ ] Jose Bravo - QRadar (38 Vídeos): https://www.youtube.com/watch?v=P90e4iEJ32s&list=PLHh9jhztlMyqRRmj64BcVyNBkhApa_LIn
   - Base de Containers
     - [ ] LINUXtips Descomplicando o Docker: https://youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR
   - Base de computação em núvem
@@ -134,8 +145,17 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Oracle Academy - Java Explorer: https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726
 
 # Especialista
-  - TBD (To be defined)
-
+  - Sistemas de SIEM
+    - [ ] Splunk
+      - [ ] Splunk - What is Splunk?: https://education.splunk.com/course/what-is-splunk
+      - [ ] Splunk - Intro to Splunk: https://education.splunk.com/course/intro-to-splunk-elearning
+      - [ ] Splunk - Using Fields: https://education.splunk.com/course/using-fields
+      - [ ] Splunk - Scheduling Reports & Alerts: https://education.splunk.com/course/scheduling-reports-alerts-elearning
+      - [ ] Splunk - Visualizations: https://education.splunk.com/course/visualizations-elearning
+      - [ ] Splunk - Search Under the Hood: https://education.splunk.com/course/search-under-the-hood-elearning
+      - [ ] Splunk - Intro to Knowledge Objects: https://education.splunk.com/course/intro-to-knowledge-objects-elearning
+      - [ ] Splunk - Intro to Dashboards: https://education.splunk.com/course/intro-to-dashboards-eLearning
+      
 # Avançado
   - Tecnologias de rede
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
