@@ -145,6 +145,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Oracle Academy - Java Explorer: https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726
 
 # Especialista
+  - Tecnologias de internet das coisas
+    - [ ] Netacad - Introduction to IoT: https://www.netacad.com/courses/iot/introduction-iot
   - Sistemas de SIEM
     - [ ] Splunk
       - [ ] Splunk - What is Splunk?: https://education.splunk.com/course/what-is-splunk
@@ -157,8 +159,6 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
       - [ ] Splunk - Intro to Dashboards: https://education.splunk.com/course/intro-to-dashboards-eLearning
       
 # Avançado
-  - Tecnologias de internet das coisas
-    - [ ] Netacad - Introduction to IoT: https://www.netacad.com/courses/iot/introduction-iot
   - Tecnologias de rede
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
@@ -182,5 +182,3 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] z/OS Introduction: https://www.ibm.com/academic/topic/ibm-z
     - [ ] Introduction to the Cobol Language: https://www.ibm.com/academic/topic/ibm-z
     - [ ] Linux on IBM Z: https://www.ibm.com/academic/topic/ibm-z
-
-
