@@ -44,7 +44,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] SANS - CyberAces: https://www.sans.org/cyberaces/
   - Sistemas Operacionais Windows
     - [ ] MSLearn - Windows Deployment (5 Módulos): https://docs.microsoft.com/en-us/learn/paths/plan-your-windows-10-deployment-strategy/
-    - [ ] MSLearn - Windows Server (5 M): https://docs.microsoft.com/en-us/learn/paths/windows-server-deployment-configuration-administration/
+    - [ ] MSLearn - Windows Server (5 Módulos): https://docs.microsoft.com/en-us/learn/paths/windows-server-deployment-configuration-administration/
   - Sistemas Operacionais Linux
     - [ ] Linux Foundation - Introduction to Linux: https://training.linuxfoundation.org/training/introduction-to-linux/
   - Sistemas de Firewall:
@@ -157,6 +157,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
       - [ ] Splunk - Intro to Dashboards: https://education.splunk.com/course/intro-to-dashboards-eLearning
       
 # Avançado
+  - Tecnologias de internet das coisas
+    - [ ] Netacad - Introduction to IoT: https://www.netacad.com/courses/iot/introduction-iot
   - Tecnologias de rede
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
