@@ -61,6 +61,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] EV - Técnicas de Redação: https://www.ev.org.br/cursos/tecnicas-de-redacao
   - Base de Redes
     - [ ] Netacad - CCNAv7 Switching, Routing e Wireless Essentials (pelo Nic.Br): https://cursoseventos.nic.br/curso/curso-ccna-srwe-cisco-nicbr/
+  - Base de Computação    
+    - [ ] Princeton University Coursera - Computer Architecture: https://www.coursera.org/learn/comparch
   - Base de computação em núvem
     - [ ] FIAP - Cloud Fundamentals: https://on.fiap.com.br/local/movimentobrasildigital/
   - Segurança da informação geral
@@ -148,6 +150,13 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
 # Especialista
   - Tecnologias de internet das coisas
     - [ ] Netacad - Introduction to IoT: https://www.netacad.com/courses/iot/introduction-iot
+    - [ ] UCI Coursera - Introduction to Programming the Internet of Things (4 Cursos): https://www.coursera.org/specializations/iot
+  - Introduçao a eletrônica digital
+    - [ ] Georgia Tech Coursera - Introduction to Electronics: https://www.coursera.org/learn/electronics
+    - [ ] Georgia Tech Coursera - Linear Circuits DC: https://www.coursera.org/learn/linear-circuits-dcanalysis
+    - [ ] Georgia Tech Coursera - Linear Circuits AC: https://www.coursera.org/learn/linear-circuits-ac-analysis
+    - [ ] UAB Coursera - Digital Systems: From Logic Gates to Processors: https://www.coursera.org/learn/digital-systems
+    - [ ] 
   - Sistemas de SIEM
     - [ ] Splunk
       - [ ] Splunk - What is Splunk?: https://education.splunk.com/course/what-is-splunk
