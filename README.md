@@ -119,7 +119,12 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Legislação
     - [ ] ENAP SERPRO - Lei Brasileira de Proteção de Dados Pessoais: https://www.escolavirtual.gov.br/curso/603
   - Caixa de Ferramentas
-    - [ ] Linux Foundation - Linux Tools: https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/    
+    - [ ] Linux Foundation - Linux Tools: https://training.linuxfoundation.org/training/linux-tools-for-software-development-lfd108x/
+  - Introduçao a eletrônica digital
+    - [ ] Georgia Tech Coursera - Introduction to Electronics: https://www.coursera.org/learn/electronics
+    - [ ] Georgia Tech Coursera - Linear Circuits DC: https://www.coursera.org/learn/linear-circuits-dcanalysis
+    - [ ] Georgia Tech Coursera - Linear Circuits AC: https://www.coursera.org/learn/linear-circuits-ac-analysis
+    - [ ] UAB Coursera - Digital Systems: From Logic Gates to Processors: https://www.coursera.org/learn/digital-systems
   - Soft Skills
     - [ ] ENAP - Habilidades de Resolução de Problemas: https://www.escolavirtual.gov.br/curso/600
     - [ ] Prime Cursos - Noções basicas de PNL: https://www.primecursos.com.br/nocoes-basicas-de-pnl/
@@ -136,6 +141,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Offensive Security - Metasploit Unleashed: https://www.offensive-security.com/metasploit-unleashed/
   - Sistemas de SIEM
     - [ ] Jose Bravo - QRadar (38 Vídeos): https://www.youtube.com/watch?v=P90e4iEJ32s&list=PLHh9jhztlMyqRRmj64BcVyNBkhApa_LIn
+  - Tecnologias de internet das coisas
+    - [ ] Netacad - Introduction to IoT: https://www.netacad.com/courses/iot/introduction-iot
   - Base de Containers
     - [ ] LINUXtips Descomplicando o Docker: https://youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR
   - Base de computação em núvem
@@ -152,14 +159,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
 
 ## Especialista
   - Tecnologias de internet das coisas
-    - [ ] Netacad - Introduction to IoT: https://www.netacad.com/courses/iot/introduction-iot
     - [ ] UCI Coursera - Introduction to Programming the Internet of Things (4 Cursos): https://www.coursera.org/specializations/iot
-  - Introduçao a eletrônica digital
-    - [ ] Georgia Tech Coursera - Introduction to Electronics: https://www.coursera.org/learn/electronics
-    - [ ] Georgia Tech Coursera - Linear Circuits DC: https://www.coursera.org/learn/linear-circuits-dcanalysis
-    - [ ] Georgia Tech Coursera - Linear Circuits AC: https://www.coursera.org/learn/linear-circuits-ac-analysis
-    - [ ] UAB Coursera - Digital Systems: From Logic Gates to Processors: https://www.coursera.org/learn/digital-systems
-    - [ ] 
   - Sistemas de SIEM
     - [ ] Splunk
       - [ ] Splunk - What is Splunk?: https://education.splunk.com/course/what-is-splunk
