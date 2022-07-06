@@ -86,6 +86,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Linux Foundation - Git: https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/
   - Soft Skills
     - [ ] FIAP - DevOps & Agile Culture: https://on.fiap.com.br/local/movimentobrasildigital/
+    - [ ] SrgioBuria - XGH Extreme Go Horse (como NÃO resolver as coisas em TI): https://pt.slideshare.net/SrgioBuria/xgh-extreme-go-horse
 
 # Intermediário
   - Base de Redes
@@ -117,6 +118,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Soft Skills
     - [ ] ENAP - Habilidades de Resolução de Problemas: https://www.escolavirtual.gov.br/curso/600
     - [ ] Prime Cursos - Noções basicas de PNL: https://www.primecursos.com.br/nocoes-basicas-de-pnl/
+    - [ ] Cybrary - Social Engineering: https://www.cybrary.it/course/social-engineering/
 
 # Praticante
   - Exercícios de "Capture the Flag"
@@ -142,9 +144,6 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-general-security-network-security-features/
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/
-  - Desenvolvimento de software
-    - [ ] Miguel Grinberg - Flask Mega Tutorial: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
-    - [ ] Oracle Academy - Java Explorer: https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726
 
 # Especialista
   - Tecnologias de internet das coisas
@@ -159,7 +158,11 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
       - [ ] Splunk - Search Under the Hood: https://education.splunk.com/course/search-under-the-hood-elearning
       - [ ] Splunk - Intro to Knowledge Objects: https://education.splunk.com/course/intro-to-knowledge-objects-elearning
       - [ ] Splunk - Intro to Dashboards: https://education.splunk.com/course/intro-to-dashboards-eLearning
-      
+  - Desenvolvimento de software
+    - [ ] Miguel Grinberg - Flask Mega Tutorial: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
+    - [ ] Oracle Academy - Java Explorer: https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726
+    - [ ] Cybrary - Secure Coding: https://www.cybrary.it/course/secure-coding/
+
 # Avançado
   - Tecnologias de rede
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
