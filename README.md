@@ -166,8 +166,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
   - Sistemas de SIEM
     - [ ] ArcSight
-      - [ ] Paul Brittle - What is Series: https://youtube.com/playlist?list=PL_JhopV-r9zLigctFEOzic-af0sEuHZ-x
-      - [ ] Paul Brittle - ArcSight ESM 101: https://youtube.com/playlist?list=PL_JhopV-r9zIXDz0pX2dmSJvBGVkczF5y
+      - [ ] Paul Brettle - What is Series: https://youtube.com/playlist?list=PL_JhopV-r9zLigctFEOzic-af0sEuHZ-x
+      - [ ] Paul Brettle - ArcSight ESM 101: https://youtube.com/playlist?list=PL_JhopV-r9zIXDz0pX2dmSJvBGVkczF5y
 
 # Mestre
   - Tecnologias de plataforma industrial
