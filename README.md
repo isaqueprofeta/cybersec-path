@@ -74,6 +74,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Forense computacional
     - [ ] AcadiTI - Digital Forensics Essentials: https://acaditi.com.br/essentials-series/#dfe
     - [ ] BASIS - Intro to DFIR: https://dfir-training.basistech.com/courses/intro-to-divide-and-conquer
+  - Exercícios de "Capture the Flag":
+    - [ ] Beco do Exploit - Desafio#2: https://youtube.com/playlist?list=PLHBDBcFA_l_WBcUJWf8cp5BaPsUkquRQU
   - Sistemas Operacionais Linux
     - [ ] Aurélio - Portal do Shell: https://aurelio.net/shell/
   - Sistemas Operacionais Windows
