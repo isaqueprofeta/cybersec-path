@@ -9,7 +9,7 @@ Cursos para fazer um "Zero to Hero" em Cyber Segurança **sem marketing**, vai t
 
 Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis", "sem custo de grana".
 
-# Básico
+## Básico
   - Inglês
     - [ ] Kultivi - Curso de inglês: https://kultivi.com/cursos/idiomas/ingles
   - Português
@@ -29,10 +29,10 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Laracasts - PHP for Beginners: https://laracasts.com/series/php-for-beginners
   - Bancos de dados
     - [ ] Coursera Michigan - Introduction to SQL: https://www.coursera.org/learn/intro-sql
-  - Soft Skills:
+  - Soft Skills
     - [ ] Coursera DTS - Learning How to Learn: https://www.coursera.org/learn/learning-how-to-learn
 
-# Iniciante
+## Iniciante
   - Português
     - [ ] EV - Oficina de Gramática: https://www.ev.org.br/cursos/oficina-de-lingua-portuguesa-gramatica
   - Base de computação
@@ -47,7 +47,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] MSLearn - Windows Server (5 Módulos): https://docs.microsoft.com/en-us/learn/paths/windows-server-deployment-configuration-administration/
   - Sistemas Operacionais Linux
     - [ ] Linux Foundation - Introduction to Linux: https://training.linuxfoundation.org/training/introduction-to-linux/
-  - Sistemas de Firewall:
+  - Sistemas de Firewall
     - [ ] Jose Bravo - PFSense (43 Vídeos): https://www.youtube.com/watch?v=aRVJmlqXAdQ&list=PLHh9jhztlMypPs0EIcpHE5R-5sc27r4Bc
   - Desenvolvimento de software
     - [ ] Netacad - Python: https://www.netacad.com/courses/programming/pcap-programming-essentials-python
@@ -56,7 +56,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Soft Skills
     - [ ] EV - Organizacao Pessoal: https://www.ev.org.br/cursos/organizacao-pessoal
 
-# Iniciado
+## Iniciado
   - Português
     - [ ] EV - Técnicas de Redação: https://www.ev.org.br/cursos/tecnicas-de-redacao
   - Base de Redes
@@ -90,7 +90,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] FIAP - DevOps & Agile Culture: https://on.fiap.com.br/local/movimentobrasildigital/
     - [ ] SrgioBuria - XGH Extreme Go Horse (como NÃO resolver as coisas em TI): https://pt.slideshare.net/SrgioBuria/xgh-extreme-go-horse
 
-# Intermediário
+## Intermediário
   - Base de Redes
     - [ ] Nic.Br - Curso Básico IPv6: https://cursoseventos.nic.br/curso/curso-basico-ipv6-ead/
   - Monitoramento de ambientes
@@ -103,6 +103,9 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Jose Bravo - What is a SIEM? (5 Vídeos): https://www.youtube.com/watch?v=MtqFMe4zSpQ&list=PLHh9jhztlMyp8lyKXt9orVM57ygW_ihPS
     - [ ] Cybrary - AlienVault OSSIM: https://www.cybrary.it/course/alienvault-ossim/
     - [ ] Elastic - SIEM Fundamentals: https://www.elastic.co/training/elastic-security-fundamentals-siem
+  - Sistemas de Firewall
+    - [ ] Checkpoint edX - Network Security: https://www.edx.org/course/jump-start-network-security
+    - [ ] Checkpoint edX - Product Deployment: https://www.edx.org/course/jump-start-product-deployment
   - Exercícios de "Capture the Flag":
     - [ ] Over the Wire - Wargames: https://overthewire.org/wargames/
   - Desenvolvimento de Software
@@ -122,7 +125,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Prime Cursos - Noções basicas de PNL: https://www.primecursos.com.br/nocoes-basicas-de-pnl/
     - [ ] Cybrary - Social Engineering: https://www.cybrary.it/course/social-engineering/
 
-# Praticante
+## Praticante
   - Exercícios de "Capture the Flag"
     - [ ] Try Hack Me: https://tryhackme.com
     - [ ] Hack The Box: https://www.hackthebox.eu
@@ -147,7 +150,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/
 
-# Especialista
+## Especialista
   - Tecnologias de internet das coisas
     - [ ] Netacad - Introduction to IoT: https://www.netacad.com/courses/iot/introduction-iot
     - [ ] UCI Coursera - Introduction to Programming the Internet of Things (4 Cursos): https://www.coursera.org/specializations/iot
@@ -172,7 +175,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Oracle Academy - Java Explorer: https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726
     - [ ] Cybrary - Secure Coding: https://www.cybrary.it/course/secure-coding/
 
-# Avançado
+## Avançado
   - Tecnologias de rede
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
@@ -181,7 +184,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
       - [ ] Paul Brettle - What is Series: https://youtube.com/playlist?list=PL_JhopV-r9zLigctFEOzic-af0sEuHZ-x
       - [ ] Paul Brettle - ArcSight ESM 101: https://youtube.com/playlist?list=PL_JhopV-r9zIXDz0pX2dmSJvBGVkczF5y
 
-# Mestre
+## Mestre
   - Tecnologias de plataforma industrial
     - [ ] CISA VLP - 210W-03 Common ICS Components: https://ics-training.inl.gov/learn/course/internal/view/elearning/60/210w-03-common-ics-components
     - [ ] CISA VLP - 210W-02 Influence of IT Components on Industrial Control Systems: https://ics-training.inl.gov/learn/course/internal/view/elearning/47/210w-02-influence-of-it-components-on-industrial-control-systems
@@ -190,7 +193,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] IBM Z Enterprise Computing Kickstart: https://www.ibm.com/academic/topic/ibm-z
     - [ ] Introduction to the Mainframe: https://www.ibm.com/academic/topic/ibm-z
 
-# "Hero"
+## "Hero"
   - Tecnologias de plataforma industrial
     - [ ] CISA VLP - 210W-04 Cybersecurity Within IT and ICS Domains (FY21): https://ics-training.inl.gov/learn/course/internal/view/elearning/162/210w-04-cybersecurity-within-it-and-ics-domains-fy21
     - [ ] CISA VLP - 210W-10 Mapping IT Defense-In-Depth Security Solutions to ICS - Part I: https://ics-training.inl.gov/learn/course/internal/view/elearning/51/210w-10-mapping-it-defense-in-depth-security-solutions-to-ics-part-i
