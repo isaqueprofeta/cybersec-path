@@ -165,8 +165,9 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
   - Sistemas de SIEM
-    - [ ] Paul Brittle - ArcSight ESM 101: https://youtube.com/playlist?list=PL_JhopV-r9zIXDz0pX2dmSJvBGVkczF5y
-    - [ ] Microfocus ESM 101 - Document: https://www.microfocus.com/documentation/arcsight/arcsight-esm-7.3/pdfdoc/ESM_101/ESM_101.pdf
+    - [ ] ArcSight
+      - [ ] Paul Brittle - What is Series: https://youtube.com/playlist?list=PL_JhopV-r9zLigctFEOzic-af0sEuHZ-x
+      - [ ] Paul Brittle - ArcSight ESM 101: https://youtube.com/playlist?list=PL_JhopV-r9zIXDz0pX2dmSJvBGVkczF5y
 
 # Mestre
   - Tecnologias de plataforma industrial
