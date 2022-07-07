@@ -9,7 +9,7 @@ Cursos para fazer um "Zero to Hero" em Cyber Segurança **sem marketing**, vai t
 
 Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis", "sem custo de grana".
 
-## Básico
+## Básico - 12 materiais
   - Inglês
     - [ ] Kultivi - Curso de inglês: https://kultivi.com/cursos/idiomas/ingles
   - Português
@@ -32,7 +32,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Soft Skills
     - [ ] Coursera DTS - Learning How to Learn: https://www.coursera.org/learn/learning-how-to-learn
 
-## Iniciante
+## Iniciante - 12 materiais
   - Português
     - [ ] EV - Oficina de Gramática: https://www.ev.org.br/cursos/oficina-de-lingua-portuguesa-gramatica
   - Base de computação
@@ -56,7 +56,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Soft Skills
     - [ ] EV - Organizacao Pessoal: https://www.ev.org.br/cursos/organizacao-pessoal
 
-## Iniciado
+## Iniciado - 18 materiais
   - Português
     - [ ] EV - Técnicas de Redação: https://www.ev.org.br/cursos/tecnicas-de-redacao
   - Base de Redes
@@ -90,7 +90,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] FIAP - DevOps & Agile Culture: https://on.fiap.com.br/local/movimentobrasildigital/
     - [ ] SrgioBuria - XGH Extreme Go Horse (como NÃO resolver as coisas em TI): https://pt.slideshare.net/SrgioBuria/xgh-extreme-go-horse
 
-## Intermediário
+## Intermediário - 25 materiais
   - Base de Redes
     - [ ] Nic.Br - Curso Básico IPv6: https://cursoseventos.nic.br/curso/curso-basico-ipv6-ead/
   - Monitoramento de ambientes
@@ -112,7 +112,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Hackaflag Papo Binário - Programação moderna em C: https://hackaflag.com.br/academy.html
   - Base de engenharia reversa
     - [ ] Hackaflag Papo Binário - Curso de Engenharia Reversa Online: https://hackaflag.com.br/academy.html
-  - Sistemas Operacionais Windows
+  - Auditoria de segurança em Sistemas Operacionais
+    - [ ] IPPSec - Linux Logging with Auditd: https://www.youtube.com/watch?v=lc1i9h1GyMA
     - [ ] Jose Bravo - Sysmon (36 Vídeos): https://www.youtube.com/watch?v=Xl31zNp4YUY&list=PLHh9jhztlMyrlWsozcrUEOvByfLJvRBDy
   - Organização pessoal e postura
     - [ ] EV - Comunicacao Empresarial: https://www.ev.org.br/cursos/comunicacao-empresarial
@@ -130,7 +131,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Prime Cursos - Noções basicas de PNL: https://www.primecursos.com.br/nocoes-basicas-de-pnl/
     - [ ] Cybrary - Social Engineering: https://www.cybrary.it/course/social-engineering/
 
-## Praticante
+## Praticante - 14 materiais
   - Exercícios de "Capture the Flag"
     - [ ] Try Hack Me: https://tryhackme.com
     - [ ] Hack The Box: https://www.hackthebox.eu
@@ -142,11 +143,12 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Ferramentas para Segurança Ofensiva
     - [ ] Offensive Security - Metasploit Unleashed: https://www.offensive-security.com/metasploit-unleashed/
   - Sistemas de SIEM
+    - [ ] IPPSec - PowerSIEM Analyzing Sysmon Events with PowerShell: https://www.youtube.com/watch?v=MvfhIydxFmw
     - [ ] Jose Bravo - QRadar (38 Vídeos): https://www.youtube.com/watch?v=P90e4iEJ32s&list=PLHh9jhztlMyqRRmj64BcVyNBkhApa_LIn
   - Tecnologias de internet das coisas
     - [ ] Netacad - Introduction to IoT: https://www.netacad.com/courses/iot/introduction-iot
   - Base de Containers
-    - [ ] LINUXtips Descomplicando o Docker: https://youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR
+    - [ ] LINUXtips Descomplicando o Docker (50 vídeos): https://youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR
   - Base de computação em núvem
     - [ ] Skills Builder - AWS: https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
     - [ ] Coursera Google - GCP: https://www.coursera.org/learn/gcp-fundamentals
@@ -159,11 +161,11 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/
 
-## Especialista
+## Especialista - 5 materiais
   - Tecnologias de internet das coisas
     - [ ] UCI Coursera - Introduction to Programming the Internet of Things (4 Cursos): https://www.coursera.org/specializations/iot
   - Sistemas de SIEM
-    - [ ] Splunk
+    - [ ] Splunk (8 cursos)
       - [ ] Splunk - What is Splunk?: https://education.splunk.com/course/what-is-splunk
       - [ ] Splunk - Intro to Splunk: https://education.splunk.com/course/intro-to-splunk-elearning
       - [ ] Splunk - Using Fields: https://education.splunk.com/course/using-fields
@@ -177,16 +179,16 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Oracle Academy - Java Explorer: https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726
     - [ ] Cybrary - Secure Coding: https://www.cybrary.it/course/secure-coding/
 
-## Avançado
+## Avançado - 3 materiais
   - Tecnologias de rede
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
   - Sistemas de SIEM
-    - [ ] ArcSight
+    - [ ] ArcSight (2 séries/paylists de vídeos)
       - [ ] Paul Brettle - What is Series: https://youtube.com/playlist?list=PL_JhopV-r9zLigctFEOzic-af0sEuHZ-x
       - [ ] Paul Brettle - ArcSight ESM 101: https://youtube.com/playlist?list=PL_JhopV-r9zIXDz0pX2dmSJvBGVkczF5y
 
-## Mestre
+## Mestre - 5 materiais
   - Tecnologias de plataforma industrial
     - [ ] CISA VLP - 210W-03 Common ICS Components: https://ics-training.inl.gov/learn/course/internal/view/elearning/60/210w-03-common-ics-components
     - [ ] CISA VLP - 210W-02 Influence of IT Components on Industrial Control Systems: https://ics-training.inl.gov/learn/course/internal/view/elearning/47/210w-02-influence-of-it-components-on-industrial-control-systems
@@ -195,7 +197,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] IBM Z Enterprise Computing Kickstart: https://www.ibm.com/academic/topic/ibm-z
     - [ ] Introduction to the Mainframe: https://www.ibm.com/academic/topic/ibm-z
 
-## "Hero"
+## "Hero" - 7 materiais
   - Tecnologias de plataforma industrial
     - [ ] CISA VLP - 210W-04 Cybersecurity Within IT and ICS Domains (FY21): https://ics-training.inl.gov/learn/course/internal/view/elearning/162/210w-04-cybersecurity-within-it-and-ics-domains-fy21
     - [ ] CISA VLP - 210W-10 Mapping IT Defense-In-Depth Security Solutions to ICS - Part I: https://ics-training.inl.gov/learn/course/internal/view/elearning/51/210w-10-mapping-it-defense-in-depth-security-solutions-to-ics-part-i
