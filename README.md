@@ -137,6 +137,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Analise de vulnerabilidades
     - [ ] Rapid7 - Fundamentals Vulnerability Risk Management: https://www.rapid7.com/fundamentals/vulnerabilities-exploits-threats/
     - [ ] Tenable - Introduction to Tenable.sc: https://university.tenable.com/pubaccess/learn/course/internal/view/elearning/333/introduction-to-tenablesc
+  - Segurança ofensiva em ambientes web
+    - [ ] Stanford - CS253 Web Security: https://web.stanford.edu/class/cs253/
   - Ferramentas para Segurança Ofensiva
     - [ ] Offensive Security - Metasploit Unleashed: https://www.offensive-security.com/metasploit-unleashed/
   - Sistemas de SIEM
