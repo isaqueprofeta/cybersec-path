@@ -138,7 +138,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Rapid7 - Fundamentals Vulnerability Risk Management: https://www.rapid7.com/fundamentals/vulnerabilities-exploits-threats/
     - [ ] Tenable - Introduction to Tenable.sc: https://university.tenable.com/pubaccess/learn/course/internal/view/elearning/333/introduction-to-tenablesc
   - Segurança ofensiva em ambientes web
-    - [ ] Stanford - CS253 Web Security: https://web.stanford.edu/class/cs253/
+    - [ ] Stanford - CS253 Web Security: https://web.stanford.edu/class/cs253/ (Vídeos das aulas: https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
   - Ferramentas para Segurança Ofensiva
     - [ ] Offensive Security - Metasploit Unleashed: https://www.offensive-security.com/metasploit-unleashed/
   - Sistemas de SIEM
