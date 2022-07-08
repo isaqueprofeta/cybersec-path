@@ -167,6 +167,9 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
 ## Especialista - 5 materiais
   - Tecnologias de internet das coisas
     - [ ] UCI Coursera - Introduction to Programming the Internet of Things (4 Cursos): https://www.coursera.org/specializations/iot
+  - Sistemas de firewall:
+    - [ ] Network Direction - Palo Alto Firewalls (8 Vídeos): https://www.youtube.com/playlist?list=PLDQaRcbiSnqFM4qcMEskn2k48LsUGKFga
+    - [ ] Network Direction - CISCO ASA Firewalls (8 Vídeos): https://www.youtube.com/playlist?list=PLDQaRcbiSnqHXo_r1scHZook0BAED5-YN
   - Sistemas de SIEM
     - [ ] Splunk (8 cursos)
       - [ ] Splunk - What is Splunk?: https://education.splunk.com/course/what-is-splunk
