@@ -189,6 +189,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Tecnologias de rede
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
+    - [ ] Network Direction - Voice Networks (VoIP): https://www.youtube.com/playlist?list=PLDQaRcbiSnqG0b2hevMJlEx62o8RnC41l
   - Sistemas de SIEM
     - [ ] ArcSight (2 séries/paylists de vídeos)
       - [ ] Paul Brettle - What is Series: https://youtube.com/playlist?list=PL_JhopV-r9zLigctFEOzic-af0sEuHZ-x
