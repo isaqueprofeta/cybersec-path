@@ -32,7 +32,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Soft Skills
     - [ ] Coursera DTS - Learning How to Learn: https://www.coursera.org/learn/learning-how-to-learn
 
-## Iniciante - 12 materiais
+## Iniciante - 13 materiais
   - Português
     - [ ] EV - Oficina de Gramática: https://www.ev.org.br/cursos/oficina-de-lingua-portuguesa-gramatica
   - Base de computação
@@ -73,6 +73,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] DESEC - Introducao Pentest: https://desecsecurity.com/curso/introducao-pentest
   - Segurança Ofensiva
     - [ ] AacadiTI - Ethical Hacking Essentials: https://acaditi.com.br/essentials-series/#ehe
+    - [ ] Portswigger Web Security Academy - Server-side topics (93 Labs): https://portswigger.net/web-security/learning-path
   - Forense computacional
     - [ ] AcadiTI - Digital Forensics Essentials: https://acaditi.com.br/essentials-series/#dfe
     - [ ] BASIS - Intro to DFIR: https://dfir-training.basistech.com/courses/intro-to-divide-and-conquer
@@ -90,7 +91,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] FIAP - DevOps & Agile Culture: https://on.fiap.com.br/local/movimentobrasildigital/
     - [ ] SrgioBuria - XGH Extreme Go Horse (como NÃO resolver as coisas em TI): https://pt.slideshare.net/SrgioBuria/xgh-extreme-go-horse
 
-## Intermediário - 25 materiais
+## Intermediário - 26 materiais
   - Base de Redes
     - [ ] Nic.Br - Curso Básico IPv6: https://cursoseventos.nic.br/curso/curso-basico-ipv6-ead/
   - Monitoramento de ambientes
@@ -99,6 +100,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Segurança Ofensiva
     - [ ] GoHacking - EHC2: https://www.youtube.com/watch?v=bUqu8fh7xUg
     - [ ] Beco do Exploit - Hacking Dojo: https://becodoexploit.com/HackingDojo/
+    - [ ] Portswigger Web Security Academy - Client-side topics (93 Labs): https://portswigger.net/web-security/learning-path
   - Sistemas de SIEM
     - [ ] Jose Bravo - What is a SIEM? (5 Vídeos): https://www.youtube.com/watch?v=MtqFMe4zSpQ&list=PLHh9jhztlMyp8lyKXt9orVM57ygW_ihPS
     - [ ] Cybrary - AlienVault OSSIM: https://www.cybrary.it/course/alienvault-ossim/
@@ -131,7 +133,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Prime Cursos - Noções basicas de PNL: https://www.primecursos.com.br/nocoes-basicas-de-pnl/
     - [ ] Cybrary - Social Engineering: https://www.cybrary.it/course/social-engineering/
 
-## Praticante - 14 materiais
+## Praticante - 15 materiais
   - Exercícios de "Capture the Flag"
     - [ ] Try Hack Me: https://tryhackme.com
     - [ ] Hack The Box: https://www.hackthebox.eu
@@ -140,6 +142,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Tenable - Introduction to Tenable.sc: https://university.tenable.com/pubaccess/learn/course/internal/view/elearning/333/introduction-to-tenablesc
   - Segurança ofensiva em ambientes web
     - [ ] Stanford - CS253 Web Security: https://web.stanford.edu/class/cs253/ (Vídeos das aulas: https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
+    - [ ] Portswigger Web Security Academy - Advanced topics (93 Labs): https://portswigger.net/web-security/learning-path
   - Ferramentas para Segurança Ofensiva
     - [ ] Offensive Security - Metasploit Unleashed: https://www.offensive-security.com/metasploit-unleashed/
   - Sistemas de SIEM
