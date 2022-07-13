@@ -3,9 +3,9 @@
 # "Zero to Hero" "No Bull$h1t" em Segurança Cibernética 
 
 Cursos para fazer um "Zero to Hero" em Cyber Segurança **sem marketing**, vai ter que:
-- estudar muito (estamos falando de um "Hero" né?)
-- estudar coisas "não técnicas" e "não convencionais" (Qualidade = Hard Skills + Soft Skills)
-- estudar mais de uma vez a mesma coisa (Saber = Repetir + Repetir + Repetir)
+  - estudar muito (estamos falando de um "Hero" né?)
+  - estudar coisas "não técnicas" e "não convencionais" (Qualidade = Hard Skills + Soft Skills)
+  - estudar mais de uma vez a mesma coisa (Saber = Repetir + Repetir + Repetir)
 
 Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis", "sem custo de grana".
 
@@ -31,6 +31,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Coursera Michigan - Introduction to SQL: https://www.coursera.org/learn/intro-sql
   - Soft Skills
     - [ ] Coursera DTS - Learning How to Learn: https://www.coursera.org/learn/learning-how-to-learn
+    - [ ] FM2S - Criatividade: Princípios e Técnicas: https://ead.fm2s.com.br/curso/curso-de-criatividade-principios-e-abordagens/
 
 ## Iniciante - 13 materiais
   - Português
@@ -53,6 +54,10 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Netacad - Python: https://www.netacad.com/courses/programming/pcap-programming-essentials-python
   - Bancos de dados
     - [ ] Coursera Michigan - Database Design PostgreSQL: https://www.coursera.org/learn/database-design-postgresql
+  - Ciência de dados
+    - [ ] Data Science Academy - Big Data Fundamentos 3.0: https://www.datascienceacademy.com.br/cursosgratuitos
+    - [ ] Data Science Academy - Inteligência Artificial Fundamentos 2.0: https://www.datascienceacademy.com.br/cursosgratuitos
+    - [ ] Data Science Academy - Introdução à Ciência de Dados 3.0: https://www.datascienceacademy.com.br/cursosgratuitos
   - Soft Skills
     - [ ] EV - Organizacao Pessoal: https://www.ev.org.br/cursos/organizacao-pessoal
 
@@ -87,6 +92,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Netacad - JavaScript: https://www.netacad.com/courses/programming/pcap-programming-essentials-python
   - Caixa de Ferramentas
     - [ ] Linux Foundation - Git: https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/
+  - Ciência de dados
+    - [ ] Data Science Academy - Microsoft Power BI Para Data Science, Versão 2.0: https://www.datascienceacademy.com.br/cursosgratuitos
   - Soft Skills
     - [ ] FIAP - DevOps & Agile Culture: https://on.fiap.com.br/local/movimentobrasildigital/
     - [ ] SrgioBuria - XGH Extreme Go Horse (como NÃO resolver as coisas em TI): https://pt.slideshare.net/SrgioBuria/xgh-extreme-go-horse
@@ -163,7 +170,9 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-general-security-network-security-features/
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/
-
+  - Soft Skills
+    - [ ] FM2S - Introdução ao Lean: https://ead.fm2s.com.br/curso/introducao-ao-lean/
+    
 ## Especialista - 5 materiais
   - Tecnologias de internet das coisas
     - [ ] UCI Coursera - Introduction to Programming the Internet of Things (4 Cursos): https://www.coursera.org/specializations/iot
