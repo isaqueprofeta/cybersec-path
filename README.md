@@ -9,7 +9,7 @@ Cursos para fazer um "Zero to Hero" em Cyber Segurança **sem marketing**, vai t
 
 Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis", "sem custo de grana".
 
-## Básico - 12 materiais
+## Básico - 13 materiais
   - Inglês
     - [ ] Kultivi - Curso de inglês: https://kultivi.com/cursos/idiomas/ingles
   - Português
@@ -33,7 +33,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Coursera DTS - Learning How to Learn: https://www.coursera.org/learn/learning-how-to-learn
     - [ ] FM2S - Criatividade: Princípios e Técnicas: https://ead.fm2s.com.br/curso/curso-de-criatividade-principios-e-abordagens/
 
-## Iniciante - 13 materiais
+## Iniciante - 15 materiais
   - Português
     - [ ] EV - Oficina de Gramática: https://www.ev.org.br/cursos/oficina-de-lingua-portuguesa-gramatica
   - Base de computação
@@ -61,7 +61,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Soft Skills
     - [ ] EV - Organizacao Pessoal: https://www.ev.org.br/cursos/organizacao-pessoal
 
-## Iniciado - 18 materiais
+## Iniciado - 20 materiais
   - Português
     - [ ] EV - Técnicas de Redação: https://www.ev.org.br/cursos/tecnicas-de-redacao
   - Base de Redes
@@ -82,7 +82,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Forense computacional
     - [ ] AcadiTI - Digital Forensics Essentials: https://acaditi.com.br/essentials-series/#dfe
     - [ ] BASIS - Intro to DFIR: https://dfir-training.basistech.com/courses/intro-to-divide-and-conquer
-  - Exercícios de "Capture the Flag":
+  - Exercícios de "Capture the Flag"
     - [ ] Beco do Exploit - Desafio#2: https://youtube.com/playlist?list=PLHBDBcFA_l_WBcUJWf8cp5BaPsUkquRQU
   - Sistemas Operacionais Linux
     - [ ] Aurélio - Portal do Shell: https://aurelio.net/shell/
@@ -115,7 +115,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Sistemas de Firewall
     - [ ] Checkpoint edX - Network Security: https://www.edx.org/course/jump-start-network-security
     - [ ] Checkpoint edX - Product Deployment: https://www.edx.org/course/jump-start-product-deployment
-  - Exercícios de "Capture the Flag":
+  - Exercícios de "Capture the Flag"
     - [ ] Over the Wire - Wargames: https://overthewire.org/wargames/
   - Desenvolvimento de Software
     - [ ] Hackaflag Papo Binário - Programação moderna em C: https://hackaflag.com.br/academy.html
@@ -140,7 +140,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Prime Cursos - Noções basicas de PNL: https://www.primecursos.com.br/nocoes-basicas-de-pnl/
     - [ ] Cybrary - Social Engineering: https://www.cybrary.it/course/social-engineering/
 
-## Praticante - 15 materiais
+## Praticante - 21 materiais
   - Exercícios de "Capture the Flag"
     - [ ] Try Hack Me: https://tryhackme.com
     - [ ] Hack The Box: https://www.hackthebox.eu
@@ -173,10 +173,10 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Soft Skills
     - [ ] FM2S - Introdução ao Lean: https://ead.fm2s.com.br/curso/introducao-ao-lean/
     
-## Especialista - 5 materiais
+## Especialista - 14 materiais
   - Tecnologias de internet das coisas
     - [ ] UCI Coursera - Introduction to Programming the Internet of Things (4 Cursos): https://www.coursera.org/specializations/iot
-  - Sistemas de firewall:
+  - Sistemas de firewall
     - [ ] Network Direction - Palo Alto Firewalls (8 Vídeos): https://www.youtube.com/playlist?list=PLDQaRcbiSnqFM4qcMEskn2k48LsUGKFga
     - [ ] Network Direction - CISCO ASA Firewalls (8 Vídeos): https://www.youtube.com/playlist?list=PLDQaRcbiSnqHXo_r1scHZook0BAED5-YN
   - Sistemas de SIEM
@@ -194,7 +194,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Oracle Academy - Java Explorer: https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726
     - [ ] Cybrary - Secure Coding: https://www.cybrary.it/course/secure-coding/
 
-## Avançado - 3 materiais
+## Avançado - 5 materiais
   - Tecnologias de rede
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
