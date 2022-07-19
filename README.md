@@ -157,6 +157,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Jose Bravo - QRadar (38 Vídeos): https://www.youtube.com/watch?v=P90e4iEJ32s&list=PLHh9jhztlMyqRRmj64BcVyNBkhApa_LIn
   - Tecnologias de internet das coisas
     - [ ] Netacad - Introduction to IoT: https://www.netacad.com/courses/iot/introduction-iot
+  - Desenvolvimento de software:
+    - edX - CS50’s Introduction to Programming with Python (CS50P): https://www.edx.org/professional-certificate/harvardx-computer-science-for-python-programming
   - Base de Containers
     - [ ] LINUXtips Descomplicando o Docker (50 vídeos): https://youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR
   - Base de computação em núvem
