@@ -9,7 +9,9 @@ Cursos para fazer um "Zero to Hero" em Cyber Segurança **sem marketing**, vai t
 
 Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis", "sem custo de grana".
 
-## Básico - 13 materiais
+Disclaimer: Ninguém precisa ser "Hero", lembre-se sempre da velha frase... ""
+
+## Básico - 14 materiais
   - Inglês
     - [ ] Kultivi - Curso de inglês: https://kultivi.com/cursos/idiomas/ingles
   - Português
@@ -29,11 +31,12 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Laracasts - PHP for Beginners: https://laracasts.com/series/php-for-beginners
   - Bancos de dados
     - [ ] Coursera Michigan - Introduction to SQL: https://www.coursera.org/learn/intro-sql
+    - [ ] Mosh - MySQL in 3 Hours: https://www.youtube.com/watch?v=7S_tz1z_5bA
   - Soft Skills
     - [ ] Coursera DTS - Learning How to Learn: https://www.coursera.org/learn/learning-how-to-learn
     - [ ] FM2S - Criatividade: Princípios e Técnicas: https://ead.fm2s.com.br/curso/curso-de-criatividade-principios-e-abordagens/
 
-## Iniciante - 15 materiais
+## Iniciante - 16 materiais
   - Português
     - [ ] EV - Oficina de Gramática: https://www.ev.org.br/cursos/oficina-de-lingua-portuguesa-gramatica
   - Base de computação
@@ -52,6 +55,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Jose Bravo - PFSense (43 Vídeos): https://www.youtube.com/watch?v=aRVJmlqXAdQ&list=PLHh9jhztlMypPs0EIcpHE5R-5sc27r4Bc
   - Desenvolvimento de software
     - [ ] Netacad - Python: https://www.netacad.com/courses/programming/pcap-programming-essentials-python
+    - [ ] Mosh - What is a REST API: https://www.youtube.com/watch?v=SLwpqD8n3d0
   - Bancos de dados
     - [ ] Coursera Michigan - Database Design PostgreSQL: https://www.coursera.org/learn/database-design-postgresql
   - Ciência de dados
@@ -89,7 +93,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Sistemas Operacionais Windows
     - [ ] MSLearn - PowerShell (6 Módulos): https://docs.microsoft.com/en-us/learn/paths/powershell/
   - Desenvolvimento de software
-    - [ ] Netacad - JavaScript: https://www.netacad.com/courses/programming/pcap-programming-essentials-python
+    - [ ] Netacad - JavaScript: https://www.netacad.com/courses/programming/javascript-essentials-1
   - Caixa de Ferramentas
     - [ ] Linux Foundation - Git: https://training.linuxfoundation.org/training/git-for-distributed-software-development-lfd109x/
   - Ciência de dados
@@ -140,7 +144,7 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
     - [ ] Prime Cursos - Noções basicas de PNL: https://www.primecursos.com.br/nocoes-basicas-de-pnl/
     - [ ] Cybrary - Social Engineering: https://www.cybrary.it/course/social-engineering/
 
-## Praticante - 21 materiais
+## Praticante - 23 materiais
   - Exercícios de "Capture the Flag"
     - [ ] Try Hack Me: https://tryhackme.com
     - [ ] Hack The Box: https://www.hackthebox.eu
@@ -158,7 +162,8 @@ Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis",
   - Tecnologias de internet das coisas
     - [ ] Netacad - Introduction to IoT: https://www.netacad.com/courses/iot/introduction-iot
   - Desenvolvimento de software:
-    - edX - CS50’s Introduction to Programming with Python (CS50P): https://www.edx.org/professional-certificate/harvardx-computer-science-for-python-programming
+    - [ ] edX - CS50’s Introduction to Programming with Python (CS50P): https://www.edx.org/professional-certificate/harvardx-computer-science-for-python-programming
+    - [ ] Mosh - Learn Node in 1 Hour: https://www.youtube.com/watch?v=TlB_eWDSMt4
   - Base de Containers
     - [ ] LINUXtips Descomplicando o Docker (50 vídeos): https://youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR
   - Base de computação em núvem
