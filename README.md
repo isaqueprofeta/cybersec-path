@@ -180,6 +180,9 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] Mosh - Learn Node in 1 Hour: https://www.youtube.com/watch?v=TlB_eWDSMt4
   - Base de Containers
     - [ ] LINUXtips Descomplicando o Docker (50 vídeos): https://youtube.com/playlist?list=PLf-O3X2-mxDn1VpyU2q3fuI6YYeIWp5rR
+  - Técnicas de Segurança ofensiva
+    - [ ] Beco do Exploit - The Art of Bypass: https://www.youtube.com/watch?v=f0ErvZeTFVQ
+    - [ ] Beco do Exploit - Contra-inteligência em redes anônimas: https://www.youtube.com/watch?v=E4SYtCOYzQM
   - Base de computação em núvem
     - [ ] Skills Builder - AWS: https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
     - [ ] Coursera Google - GCP: https://www.coursera.org/learn/gcp-fundamentals
@@ -200,6 +203,8 @@ Sem mais delongas, te desejo bons estudos!
   - Sistemas de firewall
     - [ ] Network Direction - Palo Alto Firewalls (8 Vídeos): https://www.youtube.com/playlist?list=PLDQaRcbiSnqFM4qcMEskn2k48LsUGKFga
     - [ ] Network Direction - CISCO ASA Firewalls (8 Vídeos): https://www.youtube.com/playlist?list=PLDQaRcbiSnqHXo_r1scHZook0BAED5-YN
+  - Ferramentas para Pentest
+    - [ ] Ryan Basden - Pentesting Team Tools (Twitter Thread): https://twitter.com/_rybaz/status/1544661984666427394?t=gjK3lCt_siNz8SUO-zNhcg&s=19
   - Sistemas de SIEM
     - [ ] Splunk (8 cursos)
       - [ ] Splunk - What is Splunk?: https://education.splunk.com/course/what-is-splunk
