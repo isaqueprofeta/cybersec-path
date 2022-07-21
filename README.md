@@ -7,9 +7,23 @@ Cursos para fazer um "Zero to Hero" em Cyber Segurança **sem marketing**, vai t
   - estudar coisas "não técnicas" e "não convencionais" (Qualidade = Hard Skills + Soft Skills)
   - estudar mais de uma vez a mesma coisa (Saber = Repetir + Repetir + Repetir)
 
-Ponto bom: Único investimento é o seu tempo, é tudo "na faixa", "de grátis", "sem custo de grana".
+Ponto bom: 
+  - Único investimento é o seu tempo, é tudo "na faixa", "de grátis", "sem custo de grana".
 
-Disclaimer: Ninguém precisa ser "Hero", lembre-se sempre da velha frase... ""
+Disclaimer: 
+  - **Ninguém precisa ser "Hero"**, mas lembre-se sempre da velha passagem (com tradução em seguida para a galera que ainda não começou o curso de inglês)
+
+    _"Be careful whose advice you buy, but be patient with those who supply it. 
+      Advice is a form of nostalgia. Dispensing it is a way of fishing the past from the disposal,
+      wiping it off, painting over the ugly parts and recycling it for more than it's worth."_
+   
+    _"Tenha cuidado com as pessoas que lhe dão conselhos, mas seja paciente com elas.
+      Conselho é uma forma de nostalgia. Dar conselhos é uma forma de resgatar o passado da lata de lixo,
+      limpa-lo, esconder as partes feias e reciclá-lo por um preço maior do que realmente vale."_
+
+<p align="right">Sunscreen (Everybody's Free) - Baz Luhrmann</p>
+
+Sem mais delongas, te desejo bons estudos!
 
 ## Básico - 14 materiais
   - Inglês
