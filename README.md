@@ -116,7 +116,7 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] FIAP - DevOps & Agile Culture: https://on.fiap.com.br/local/movimentobrasildigital/
     - [ ] SrgioBuria - XGH Extreme Go Horse (como NÃO resolver as coisas em TI): https://pt.slideshare.net/SrgioBuria/xgh-extreme-go-horse
 
-## Intermediário - 26 materiais
+## Intermediário - 28 materiais
   - Base de Redes
     - [ ] Nic.Br - Curso Básico IPv6: https://cursoseventos.nic.br/curso/curso-basico-ipv6-ead/
   - Monitoramento de ambientes
@@ -126,6 +126,9 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] GoHacking - EHC2: https://www.youtube.com/watch?v=bUqu8fh7xUg
     - [ ] Beco do Exploit - Hacking Dojo: https://becodoexploit.com/HackingDojo/
     - [ ] Portswigger Web Security Academy - Client-side topics (93 Labs): https://portswigger.net/web-security/learning-path
+    - [ ] GoHacking - BugBounty: https://youtu.be/UHo9TLzJneM
+  - Segurança Defensiva
+    - [ ] GoHacking - Security Operations 101: https://youtu.be/jHr6o8_sKZo
   - Sistemas de SIEM
     - [ ] Jose Bravo - What is a SIEM? (5 Vídeos): https://www.youtube.com/watch?v=MtqFMe4zSpQ&list=PLHh9jhztlMyp8lyKXt9orVM57ygW_ihPS
     - [ ] Cybrary - AlienVault OSSIM: https://www.cybrary.it/course/alienvault-ossim/
@@ -158,7 +161,7 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] Prime Cursos - Noções basicas de PNL: https://www.primecursos.com.br/nocoes-basicas-de-pnl/
     - [ ] Cybrary - Social Engineering: https://www.cybrary.it/course/social-engineering/
 
-## Praticante - 23 materiais
+## Praticante - 26 materiais
   - Exercícios de "Capture the Flag"
     - [ ] Try Hack Me: https://tryhackme.com
     - [ ] Hack The Box: https://www.hackthebox.eu
@@ -170,6 +173,7 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] Portswigger Web Security Academy - Advanced topics (93 Labs): https://portswigger.net/web-security/learning-path
   - Ferramentas para Segurança Ofensiva
     - [ ] Offensive Security - Metasploit Unleashed: https://www.offensive-security.com/metasploit-unleashed/
+    - [ ] GoHacking - Fundamentos de Análise de memória: https://youtu.be/Iz0Bh7L3iYM
   - Sistemas de SIEM
     - [ ] IPPSec - PowerSIEM Analyzing Sysmon Events with PowerShell: https://www.youtube.com/watch?v=MvfhIydxFmw
     - [ ] Jose Bravo - QRadar (38 Vídeos): https://www.youtube.com/watch?v=P90e4iEJ32s&list=PLHh9jhztlMyqRRmj64BcVyNBkhApa_LIn
@@ -197,7 +201,7 @@ Sem mais delongas, te desejo bons estudos!
   - Soft Skills
     - [ ] FM2S - Introdução ao Lean: https://ead.fm2s.com.br/curso/introducao-ao-lean/
     
-## Especialista - 14 materiais
+## Especialista - 15 materiais
   - Tecnologias de internet das coisas
     - [ ] UCI Coursera - Introduction to Programming the Internet of Things (4 Cursos): https://www.coursera.org/specializations/iot
   - Sistemas de firewall
@@ -216,11 +220,15 @@ Sem mais delongas, te desejo bons estudos!
       - [ ] Splunk - Intro to Knowledge Objects: https://education.splunk.com/course/intro-to-knowledge-objects-elearning
       - [ ] Splunk - Intro to Dashboards: https://education.splunk.com/course/intro-to-dashboards-eLearning
   - Desenvolvimento de software
+    - [ ] GoHacking - Desenvolvimento seguro e DevSecOps: https://youtu.be/oZc0SNpdOaI
     - [ ] Miguel Grinberg - Flask Mega Tutorial: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
     - [ ] Oracle Academy - Java Explorer: https://learn.oracle.com/ols/learning-path/java-explorer/40805/79726
     - [ ] Cybrary - Secure Coding: https://www.cybrary.it/course/secure-coding/
 
-## Avançado - 5 materiais
+## Avançado - 7 materiais
+  - Segurança Ofensiva
+    - [ ] GoHacking - Atividades de pós exploracao: https://youtu.be/vCk3sAVRJSM
+    - [ ] GoHacking - Configurando Ambiente de Pentest em dispositivos móveis: https://youtu.be/n72AKrFBlj8
   - Tecnologias de rede
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
