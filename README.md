@@ -50,7 +50,7 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] Coursera DTS - Learning How to Learn: https://www.coursera.org/learn/learning-how-to-learn
     - [ ] FM2S - Criatividade: Princípios e Técnicas: https://ead.fm2s.com.br/curso/curso-de-criatividade-principios-e-abordagens/
 
-## Iniciante - 16 materiais
+## Iniciante - 17 materiais
   - Português
     - [ ] EV - Oficina de Gramática: https://www.ev.org.br/cursos/oficina-de-lingua-portuguesa-gramatica
   - Base de computação
@@ -80,7 +80,7 @@ Sem mais delongas, te desejo bons estudos!
   - Soft Skills
     - [ ] EV - Organizacao Pessoal: https://www.ev.org.br/cursos/organizacao-pessoal
 
-## Iniciado - 20 materiais
+## Iniciado - 22 materiais
   - Português
     - [ ] EV - Técnicas de Redação: https://www.ev.org.br/cursos/tecnicas-de-redacao
   - Processos de TI
@@ -120,7 +120,7 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] FIAP - DevOps & Agile Culture: https://on.fiap.com.br/local/movimentobrasildigital/
     - [ ] SrgioBuria - XGH Extreme Go Horse (como NÃO resolver as coisas em TI): https://pt.slideshare.net/SrgioBuria/xgh-extreme-go-horse
 
-## Intermediário - 28 materiais
+## Intermediário - 30 materiais
   - Base de Redes
     - [ ] Nic.Br - Curso Básico IPv6: https://cursoseventos.nic.br/curso/curso-basico-ipv6-ead/
   - Monitoramento de ambientes
@@ -167,7 +167,7 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] Sarah Granger - Social Engineering Fundamentals, Part I: Hacker Tactics: http://web.archive.org/web/20160425153636/http://www.symantec.com/connect/articles/social-engineering-fundamentals-part-i-hacker-tactics
     - [ ] Sarah Granger - Social Engineering Fundamentals, Part II: Combat Strategies: https://web.archive.org/web/20140912061257/http://www.symantec.com/connect/articles/social-engineering-fundamentals-part-ii-combat-strategies
 
-## Praticante - 26 materiais
+## Praticante - 27 materiais
   - Exercícios de "Capture the Flag"
     - [ ] Try Hack Me: https://tryhackme.com
     - [ ] Hack The Box: https://www.hackthebox.eu
@@ -199,7 +199,7 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] Skills Builder - AWS: https://explore.skillbuilder.aws/learn/course/external/view/elearning/134/aws-cloud-practitioner-essentials
     - [ ] Coursera Google - GCP: https://www.coursera.org/learn/gcp-fundamentals
     - [ ] Oracle Academy - OCI: https://mylearn.oracle.com/learning-path/become-an-oci-foundations-associate/98057
-    - [ ] MSLearn - Azure Fundamentals (6 Learning Paths):
+    - MSLearn - Azure Fundamentals (6 Learning Paths):
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-cloud-concepts/
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-core-azure-services/
       - [ ] https://docs.microsoft.com/pt-br/learn/paths/az-900-describe-core-solutions-management-tools-azure/
@@ -209,7 +209,7 @@ Sem mais delongas, te desejo bons estudos!
   - Soft Skills
     - [ ] FM2S - Introdução ao Lean: https://ead.fm2s.com.br/curso/introducao-ao-lean/
     
-## Especialista - 15 materiais
+## Especialista - 17 materiais
   - Tecnologias de internet das coisas
     - [ ] UCI Coursera - Introduction to Programming the Internet of Things (4 Cursos): https://www.coursera.org/specializations/iot
   - Sistemas de firewall
@@ -218,7 +218,7 @@ Sem mais delongas, te desejo bons estudos!
   - Ferramentas para Pentest
     - [ ] Ryan Basden - Pentesting Team Tools (Twitter Thread): https://twitter.com/_rybaz/status/1544661984666427394?t=gjK3lCt_siNz8SUO-zNhcg&s=19
   - Sistemas de SIEM
-    - [ ] Splunk (8 cursos)
+    - Splunk (8 cursos)
       - [ ] Splunk - What is Splunk?: https://education.splunk.com/course/what-is-splunk
       - [ ] Splunk - Intro to Splunk: https://education.splunk.com/course/intro-to-splunk-elearning
       - [ ] Splunk - Using Fields: https://education.splunk.com/course/using-fields
@@ -244,7 +244,7 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
     - [ ] Network Direction - Voice Networks (VoIP): https://www.youtube.com/playlist?list=PLDQaRcbiSnqG0b2hevMJlEx62o8RnC41l
   - Sistemas de SIEM
-    - [ ] ArcSight (2 séries/paylists de vídeos)
+    - ArcSight (2 séries/paylists de vídeos)
       - [ ] Paul Brettle - What is Series: https://youtube.com/playlist?list=PL_JhopV-r9zLigctFEOzic-af0sEuHZ-x
       - [ ] Paul Brettle - ArcSight ESM 101: https://youtube.com/playlist?list=PL_JhopV-r9zIXDz0pX2dmSJvBGVkczF5y
 
