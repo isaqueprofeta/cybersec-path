@@ -60,6 +60,7 @@ Sem mais delongas, te desejo bons estudos!
   - Segurança da informação geral
     - [ ] Netacad - Cybersecurity Essentials: https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials
     - [ ] SANS - CyberAces: https://www.sans.org/cyberaces/
+    - [ ] NIC.br - Tratamento de Incidentes de Segurança na Internet, explicado pelo NIC.br: https://youtu.be/flu6JPRHW04
   - Sistemas Operacionais Windows
     - [ ] MSLearn - Windows Deployment (5 Módulos): https://docs.microsoft.com/en-us/learn/paths/plan-your-windows-10-deployment-strategy/
     - [ ] MSLearn - Windows Server (5 Módulos): https://docs.microsoft.com/en-us/learn/paths/windows-server-deployment-configuration-administration/
@@ -94,6 +95,7 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] FIAP - Cybersecurity: https://on.fiap.com.br/local/movimentobrasildigital/
     - [ ] AacadiTI - Network Defense Essentials: https://acaditi.com.br/essentials-series/#nde
     - [ ] Coursera - New York University: https://www.coursera.org/specializations/intro-cyber-security
+    - [ ] Cert.br - Recomendações para Notificações de Incidentes de Segurança: https://www.cert.br/docs/whitepapers/notificacoes/
   - Pentest
     - [ ] DESEC - Introducao Pentest: https://desecsecurity.com/curso/introducao-pentest
   - Segurança Ofensiva
@@ -162,6 +164,8 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] ENAP - Habilidades de Resolução de Problemas: https://www.escolavirtual.gov.br/curso/600
     - [ ] Prime Cursos - Noções basicas de PNL: https://www.primecursos.com.br/nocoes-basicas-de-pnl/
     - [ ] Cybrary - Social Engineering: https://www.cybrary.it/course/social-engineering/
+    - [ ] Sarah Granger - Social Engineering Fundamentals, Part I: Hacker Tactics: http://web.archive.org/web/20160425153636/http://www.symantec.com/connect/articles/social-engineering-fundamentals-part-i-hacker-tactics
+    - [ ] Sarah Granger - Social Engineering Fundamentals, Part II: Combat Strategies: https://web.archive.org/web/20140912061257/http://www.symantec.com/connect/articles/social-engineering-fundamentals-part-ii-combat-strategies
 
 ## Praticante - 26 materiais
   - Exercícios de "Capture the Flag"
@@ -170,6 +174,8 @@ Sem mais delongas, te desejo bons estudos!
   - Analise de vulnerabilidades
     - [ ] Rapid7 - Fundamentals Vulnerability Risk Management: https://www.rapid7.com/fundamentals/vulnerabilities-exploits-threats/
     - [ ] Tenable - Introduction to Tenable.sc: https://university.tenable.com/pubaccess/learn/course/internal/view/elearning/333/introduction-to-tenablesc
+  - Segurança da informaçao
+    - [ ] Cert.br - Honeypots e Honeynets: Definições e Aplicações: https://www.cert.br/docs/whitepapers/honeypots-honeynets/
   - Segurança ofensiva em ambientes web
     - [ ] Stanford - CS253 Web Security: https://web.stanford.edu/class/cs253/ (Vídeos das aulas: https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
     - [ ] Portswigger Web Security Academy - Advanced topics (93 Labs): https://portswigger.net/web-security/learning-path
@@ -221,6 +227,8 @@ Sem mais delongas, te desejo bons estudos!
       - [ ] Splunk - Search Under the Hood: https://education.splunk.com/course/search-under-the-hood-elearning
       - [ ] Splunk - Intro to Knowledge Objects: https://education.splunk.com/course/intro-to-knowledge-objects-elearning
       - [ ] Splunk - Intro to Dashboards: https://education.splunk.com/course/intro-to-dashboards-eLearning
+  - Gestão de segurança da informação
+    - [ ] Cert.br - Criando um Grupo de Respostas a Incidentes de Segurança em Computadores: Um Processo para Iniciar a Implantação: https://www.cert.br/certcc/csirts/Creating-A-CSIRT-br.html
   - Desenvolvimento de software
     - [ ] GoHacking - Desenvolvimento seguro e DevSecOps: https://youtu.be/oZc0SNpdOaI
     - [ ] Miguel Grinberg - Flask Mega Tutorial: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world
