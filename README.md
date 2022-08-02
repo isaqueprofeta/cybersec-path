@@ -80,7 +80,7 @@ Sem mais delongas, te desejo bons estudos!
   - Soft Skills
     - [ ] EV - Organizacao Pessoal: https://www.ev.org.br/cursos/organizacao-pessoal
 
-## Iniciado - 22 materiais
+## Iniciado - 25 materiais
   - Português
     - [ ] EV - Técnicas de Redação: https://www.ev.org.br/cursos/tecnicas-de-redacao
   - Processos de TI
@@ -96,6 +96,9 @@ Sem mais delongas, te desejo bons estudos!
     - [ ] AacadiTI - Network Defense Essentials: https://acaditi.com.br/essentials-series/#nde
     - [ ] Coursera - New York University: https://www.coursera.org/specializations/intro-cyber-security
     - [ ] Cert.br - Recomendações para Notificações de Incidentes de Segurança: https://www.cert.br/docs/whitepapers/notificacoes/
+    - [ ] SANS - The Cycle of Cyber Threat Intelligence: https://youtu.be/J7e74QLVxCk
+    - [ ] MITRE - Using ATT&CK for Cyber Threat Intelligence Training: https://attack.mitre.org/resources/training/cti/
+    - [ ] MITRE - Foundations of Operationalizing MITRE ATT&CK: https://academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck
   - Pentest
     - [ ] DESEC - Introducao Pentest: https://desecsecurity.com/curso/introducao-pentest
   - Segurança Ofensiva
