@@ -242,6 +242,9 @@ Sem mais delongas, te desejo bons estudos!
   - Segurança Ofensiva
     - [ ] GoHacking - Atividades de pós exploracao: https://youtu.be/vCk3sAVRJSM
     - [ ] GoHacking - Configurando Ambiente de Pentest em dispositivos móveis: https://youtu.be/n72AKrFBlj8
+  - Compartilhamento de informações
+    - [ ] FIRST - MISP General Usage Training - Part 1 of 2: https://www.youtube.com/watch?v=-NuODyh1YJE
+    - [ ] FIRST - MISP General Usage Training - Part 2 of 2: https://www.youtube.com/watch?v=LlKnh5b0bgw
   - Tecnologias de rede
     - [ ] Juniper - CCNA to JNCIA-Junos: https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-CCNA-JNCIA-JUNOS
     - [ ] Juniper - Security, Associate (JNCIA-SEC): https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=EDU-JUN-WBT-JOL-JNCIA-SEC
@@ -254,6 +257,10 @@ Sem mais delongas, te desejo bons estudos!
 ## Mestre - 6 materiais
   - Threat Hunting
     - [ ] Active Countermeasures - Cyber Threat Hunting Level 1: https://www.youtube.com/watch?v=UEOqTu8cJt0
+  - Analise de redes
+    - [ ] CERT NetSA - Network Traffic Analysis with SiLK: https://tools.netsa.cert.org/silk/analysis-handbook.pdf
+  - Analise de malware
+    - [ ] CERT.pl - Build Your Own Malware Analysis Pipeline Using New Open Source Tools: https://www.youtube.com/watch?v=dPwzF_hsCow
   - Tecnologias de plataforma industrial
     - [ ] CISA VLP - 210W-03 Common ICS Components: https://ics-training.inl.gov/learn/course/internal/view/elearning/60/210w-03-common-ics-components
     - [ ] CISA VLP - 210W-02 Influence of IT Components on Industrial Control Systems: https://ics-training.inl.gov/learn/course/internal/view/elearning/47/210w-02-influence-of-it-components-on-industrial-control-systems
