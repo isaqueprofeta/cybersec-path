@@ -212,7 +212,7 @@ Sem mais delongas, te desejo bons estudos!
   - Soft Skills
     - [ ] FM2S - Introdução ao Lean: https://ead.fm2s.com.br/curso/introducao-ao-lean/
     
-## Especialista - 17 materiais
+## Fluente - 17 materiais
   - Tecnologias de internet das coisas
     - [ ] UCI Coursera - Introduction to Programming the Internet of Things (4 Cursos): https://www.coursera.org/specializations/iot
   - Sistemas de firewall
@@ -251,7 +251,9 @@ Sem mais delongas, te desejo bons estudos!
       - [ ] Paul Brettle - What is Series: https://youtube.com/playlist?list=PL_JhopV-r9zLigctFEOzic-af0sEuHZ-x
       - [ ] Paul Brettle - ArcSight ESM 101: https://youtube.com/playlist?list=PL_JhopV-r9zIXDz0pX2dmSJvBGVkczF5y
 
-## Mestre - 5 materiais
+## Mestre - 6 materiais
+  - Threat Hunting
+    - [ ] Active Countermeasures - Cyber Threat Hunting Level 1: https://www.youtube.com/watch?v=UEOqTu8cJt0
   - Tecnologias de plataforma industrial
     - [ ] CISA VLP - 210W-03 Common ICS Components: https://ics-training.inl.gov/learn/course/internal/view/elearning/60/210w-03-common-ics-components
     - [ ] CISA VLP - 210W-02 Influence of IT Components on Industrial Control Systems: https://ics-training.inl.gov/learn/course/internal/view/elearning/47/210w-02-influence-of-it-components-on-industrial-control-systems
