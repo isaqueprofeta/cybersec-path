@@ -126,6 +126,7 @@ Sem mais delongas, te desejo bons estudos!
 ## Intermediário - 30 materiais
   - Base de Redes
     - [ ] Nic.Br - Curso Básico IPv6: https://cursoseventos.nic.br/curso/curso-basico-ipv6-ead/
+    - [ ] Netacad - CCNAv7 Enterprise Networking, Security, and Automation (pelo Nic.Br): https://cursoseventos.nic.br/curso/curso-ccna-ensa-cisco-nicbr
   - Monitoramento de ambientes
     - [ ] Elastic - Observability Fundamentals: https://www.elastic.co/training/observability-fundamentals
     - [ ] Elastic - Kibana Fundamentals: https://www.elastic.co/training/kibana-fundamentals
