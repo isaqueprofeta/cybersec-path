@@ -222,15 +222,8 @@ Sem mais delongas, te desejo bons estudos!
   - Ferramentas para Pentest
     - [ ] Ryan Basden - Pentesting Team Tools (Twitter Thread): https://twitter.com/_rybaz/status/1544661984666427394?t=gjK3lCt_siNz8SUO-zNhcg&s=19
   - Sistemas de SIEM
-    - Splunk (8 cursos)
-      - [ ] Splunk - What is Splunk?: https://education.splunk.com/course/what-is-splunk
-      - [ ] Splunk - Intro to Splunk: https://education.splunk.com/course/intro-to-splunk-elearning
-      - [ ] Splunk - Using Fields: https://education.splunk.com/course/using-fields
-      - [ ] Splunk - Scheduling Reports & Alerts: https://education.splunk.com/course/scheduling-reports-alerts-elearning
-      - [ ] Splunk - Visualizations: https://education.splunk.com/course/visualizations-elearning
-      - [ ] Splunk - Search Under the Hood: https://education.splunk.com/course/search-under-the-hood-elearning
-      - [ ] Splunk - Intro to Knowledge Objects: https://education.splunk.com/course/intro-to-knowledge-objects-elearning
-      - [ ] Splunk - Intro to Dashboards: https://education.splunk.com/course/intro-to-dashboards-eLearning
+    - Splunk
+      - [ ] Praveen - Splunk for beginners: https://youtu.be/lIQJMjSlY8U
   - Gestão de segurança da informação
     - [ ] Cert.br - Criando um Grupo de Respostas a Incidentes de Segurança em Computadores: Um Processo para Iniciar a Implantação: https://www.cert.br/certcc/csirts/Creating-A-CSIRT-br.html
   - Desenvolvimento de software
