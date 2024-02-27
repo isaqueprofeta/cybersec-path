@@ -130,6 +130,8 @@ Sem mais delongas, te desejo bons estudos!
   - Monitoramento de ambientes
     - [ ] Elastic - Observability Fundamentals: https://www.elastic.co/training/observability-fundamentals
     - [ ] Elastic - Kibana Fundamentals: https://www.elastic.co/training/kibana-fundamentals
+    - [ ] New Relic - Observability 101: The essentials: https://learn.newrelic.com/path/foundations/observability-101-the-essentials
+    - [ ] New Relic - Opentelemetry - An opensource data collection standard: https://learn.newrelic.com/opentelemetry-an-open-source-data-collection-standard
   - Segurança Ofensiva
     - [ ] GoHacking - EHC2: https://www.youtube.com/watch?v=bUqu8fh7xUg
     - [ ] Beco do Exploit - Hacking Dojo: https://becodoexploit.com/HackingDojo/
